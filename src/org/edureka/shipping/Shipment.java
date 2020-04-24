@@ -13,6 +13,19 @@ public class Shipment {
 	int trackigNumber;
 	int chargeAmount;
 
+	/**
+	 * int resourceid,
+	 *Date shipmentDate;
+	 * 	Date expiryDate;
+	 * 	String deliveryText;
+	 * 	Order order;
+	 * 	ShipmentLocation shipmentLocation;
+	 * 	Date deliveryDate;
+	 * 	int trackigNumber;
+	 * 	int chargeAmount;
+	 *
+	 * */
+
 	public int getResourceId() {
 		return resourceId;
 	}
