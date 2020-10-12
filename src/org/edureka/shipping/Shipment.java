@@ -19,6 +19,7 @@ public class Shipment {
 
 	public void setResourceId(int resourceId) {
 		this.resourceId = resourceId;
+        System.out.println("Updating Shipment feature");	
 	}
 
 	public Date getShipmentDate() {
