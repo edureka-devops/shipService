@@ -7,5 +7,6 @@ public interface IShipment {
 	public boolean deleteShipment();
 	
 	public boolean getShipment();
+	public boolean getShipment_addfeature();
 	
 }
