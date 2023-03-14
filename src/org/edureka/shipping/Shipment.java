@@ -13,6 +13,7 @@ public class Shipment {
 	int trackigNumber;
 	int chargeAmount;
 	int chargeAmountInINR;
+	int chargeAmountInYEN;
 
 	public int getResourceId() {
 		return resourceId;
