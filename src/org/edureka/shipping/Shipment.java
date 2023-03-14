@@ -12,6 +12,7 @@ public class Shipment {
 	Date deliveryDate;
 	int trackigNumber;
 	int chargeAmount;
+	int chargeAmountInINR;
 
 	public int getResourceId() {
 		return resourceId;
